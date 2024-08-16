@@ -1,6 +1,5 @@
 Microsoft 365 Calendar Permission Script
 
-Overview
 This PowerShell script is designed to streamline the process of managing calendar permissions within Microsoft 365. It allows administrators to assign specific calendar permissions to users in multiple languages, ensuring that the script can be used in a wide range of environments.
 
 Supported Languages
