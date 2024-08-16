@@ -1,4 +1,4 @@
-#   written by J. Norrby, 2024
+#   written by https://github.com/jn-scripts
 
 #   Current language support: English, Spanish, French, German, Italian, Portuguese, Dutch, Chinese (Simplified), Japanese, 
 #   Korean, Russian, Arabic, Turkish, Hindi, Bengali, Urdu, Swedish, Polish, Danish, Finnish, Greek, Hebrew, Thai, Vietnamese, Norwegian
