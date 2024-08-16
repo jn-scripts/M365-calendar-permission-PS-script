@@ -33,16 +33,13 @@ Norwegian
 
 
 
-Prerequisites
-ExchangeOnlineManagement Module: This script requires the ExchangeOnlineManagement module. If the module is not installed, the script will prompt the user to install it.
+
+This script requires the ExchangeOnlineManagement module. If the module is not installed, the script will prompt the user to install it.
 Admin UPN: The script requires the User Principal Name (UPN) of an administrator account on the Microsoft 365 tenant to log in.
 
 The script allows the administrator to apply the same permission settings to additional users if needed.
 
 The script terminates after all permissions have been assigned.
-
-
-Notes
 
 Help Commands: Enter ? at any prompt to receive more detailed instructions.
 
